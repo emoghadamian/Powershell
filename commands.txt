@@ -1,0 +1,3 @@
+whoami
+net user
+Ipconfig /all
